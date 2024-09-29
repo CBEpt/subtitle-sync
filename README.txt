@@ -1,17 +1,21 @@
-¹¤¾ß°æ±¾
+Salute to all those who made this sync pack possible. This is not my presonal work or compilage. Use at your own concern. Thanks for the master in acgrip forum that packed all these programs.
+I just translated it a little so that English users can see this and better use it for newbies like me. Just one drag away, you could now deal with your unsynced bd/web subtitles! Enjoy!
+
+å·¥å…·ç‰ˆæœ¬ Tools and editions
 sushi					v0.5.1		https://github.com/tp7/Sushi/releases/download/0.5.1/Sushi.0.5.1.zip
 SushiHelper				v221025		https://bbs.acgrip.com/thread-7987-1-1.html
 Alass					v2.0.1		https://bbs.acgrip.com/thread-8753-1-1.html
-Alass FFsubsync Helper	µÚ1°æ		https://bbs.acgrip.com/thread-8753-1-1.html
+Alass FFsubsync Helper	ç¬¬1ç‰ˆ		https://bbs.acgrip.com/thread-8753-1-1.html
 ffmpeg					5.1.1		https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-5.1.1-full_build-shared.7z
 ffsubsync				0.4.20		https://pypi.org/project/ffsubsync/
 
 
-×¢£ºffsubsyncÊÇÓÃpyhton v3.9 x64±àÒë´ò°üµÄ£¨pyhton v3.10¼°ÒÔºó°æ±¾±àÒë°²×°¿ÉÄÜ»á±¨´í£¬ÒòÎªÓĞĞ©ÒÀÀµÔİÊ±Ã»ÓĞºÜºÃµØÊÊÅä¸ß°æ±¾µÄpython£©
+æ³¨ï¼šffsubsyncæ˜¯ç”¨pyhton v3.9 x64ç¼–è¯‘æ‰“åŒ…çš„ï¼ˆpyhton v3.10åŠä»¥åç‰ˆæœ¬ç¼–è¯‘å®‰è£…å¯èƒ½ä¼šæŠ¥é”™ï¼Œå› ä¸ºæœ‰äº›ä¾èµ–æš‚æ—¶æ²¡æœ‰å¾ˆå¥½åœ°é€‚é…é«˜ç‰ˆæœ¬çš„pythonï¼‰
 
 
-ÓÃ·¨£º
-Ö±½Ó°Ñbat½Å±¾µ±³É¿ÉÖ´ĞĞÎÄ¼şÓÃ¼´¿É(¿ÉÒÔ²»ÊäÈë.batºó×º)£¬ÒòÎªÒªÅäÖÃÄ³Ğ©»·¾³±äÁ¿¡£ÀıÈç£º
+ç”¨æ³•ï¼šç›´æ¥æŠŠbatè„šæœ¬å½“æˆå¯æ‰§è¡Œæ–‡ä»¶ç”¨å³å¯(å¯ä»¥ä¸è¾“å…¥.batåç¼€)ï¼Œå› ä¸ºè¦é…ç½®æŸäº›ç¯å¢ƒå˜é‡ã€‚ä¾‹å¦‚ï¼š
+Example for uses (just drag the files or directories you need to deal with onto the .bat) :
+
 SushiHelper "D:\dvd_movie.mkv" "D:\dvd_subtitle.ass" "D:\bd_movie.mkv"
 SushiHelper.bat "D:\dvd_with_subtitle_dir" "D:\bd_dir"
 AlassFFsubsyncHelper "D:\movie.mkv" "D:\need_fix_subtitle.ass"
@@ -19,31 +23,31 @@ AlassFFsubsyncHelper.bat "D:\accurate_subtitle.ass" "D:\need_fix_subtitle.ass"
 
 
 ==============================================================================
-SushiºÍSushiHelper
+Sushiå’ŒSushiHelper
 
 https://github.com/tp7/Sushi
 https://bbs.acgrip.com/thread-7987-1-1.html
 
-Õˆé SushiHelper ½¨Á¢Ò»‚€½İ½£¬ß@‚€½İ½¿ÉÒÔ·ÅÔÚÈÎºÎµØ·½
+è«‹ç‚º SushiHelper å»ºç«‹ä¸€å€‹æ·å¾‘ï¼Œé€™å€‹æ·å¾‘å¯ä»¥æ”¾åœ¨ä»»ä½•åœ°æ–¹
 
-Ê¹ÓÃ•r£¬ÕˆŒ¢¡¸ƒÉ‚€ÙYÁÏŠA¡¹£¬»òÊÇ¡¸Èı‚€™n°¸¡¹£¬Ò»ÆğÍÏÒ·µ½¡¸SushiHelper µÄ½İ½¡¹ÉÏÃæ£¬³ÌÊ½¾Í•şé_Ê¼ˆÌĞĞ
+ä½¿ç”¨æ™‚ï¼Œè«‹å°‡ã€Œå…©å€‹è³‡æ–™å¤¾ã€ï¼Œæˆ–æ˜¯ã€Œä¸‰å€‹æª”æ¡ˆã€ï¼Œä¸€èµ·æ‹–æ›³åˆ°ã€ŒSushiHelper çš„æ·å¾‘ã€ä¸Šé¢ï¼Œç¨‹å¼å°±æœƒé–‹å§‹åŸ·è¡Œ
 
-¡¡¡¡ƒÉ‚€ÙYÁÏŠA£º¡¸Ô­Ê¼ÙYÁÏŠA¡¹Ñe·ÅÔ­Ê¼µÄÓ°Æ¬™n£¨»òÂ•Òô™n£©£¬ÒÔ¼°×ÖÄ»™n
-¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¸Ä¿˜ËÙYÁÏŠA¡¹Ñe·ÅÁíÒ»‚€°æ±¾µÄÓ°Æ¬™n£¨»òÂ•Òô™n£©
+ã€€ã€€å…©å€‹è³‡æ–™å¤¾ï¼šã€ŒåŸå§‹è³‡æ–™å¤¾ã€è£¡æ”¾åŸå§‹çš„å½±ç‰‡æª”ï¼ˆæˆ–è²éŸ³æª”ï¼‰ï¼Œä»¥åŠå­—å¹•æª”
+ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€Œç›®æ¨™è³‡æ–™å¤¾ã€è£¡æ”¾å¦ä¸€å€‹ç‰ˆæœ¬çš„å½±ç‰‡æª”ï¼ˆæˆ–è²éŸ³æª”ï¼‰
 
-¡¡¡¡Èı‚€™n°¸£º¡¸Ô­Ê¼Ó°Æ¬™n£¨Â•Òô™n£©¡¹¡¢¡¸Ô­Ê¼×ÖÄ»™n¡¹¡¢¡¸Ä¿˜ËÓ°Æ¬™n£¨Â•Òô™n£©¡¹
+ã€€ã€€ä¸‰å€‹æª”æ¡ˆï¼šã€ŒåŸå§‹å½±ç‰‡æª”ï¼ˆè²éŸ³æª”ï¼‰ã€ã€ã€ŒåŸå§‹å­—å¹•æª”ã€ã€ã€Œç›®æ¨™å½±ç‰‡æª”ï¼ˆè²éŸ³æª”ï¼‰ã€
 
 
 
 ==============================================================================
-AlassºÍAlass FFsubsync Helper
+Alasså’ŒAlass FFsubsync Helper
 
 https://github.com/dyphire/alass/
 https://bbs.acgrip.com/thread-8753-1-1.html
 
-²Ù×÷Ò»˜ÓÊÇÓÃÍÏÒ·Õ{İS£¨ÓÉÃüÁîÁĞ²Ù×÷Ò²¿ÉÒÔ£©
+æ“ä½œä¸€æ¨£æ˜¯ç”¨æ‹–æ›³èª¿è»¸ï¼ˆç”±å‘½ä»¤åˆ—æ“ä½œä¹Ÿå¯ä»¥ï¼‰
 
-İ”Èë¿ÉÒÔ½ÓÊÜ¡¸ƒÉ‚€™n°¸£¨Ò»‚€Ä¿˜ËÓ°Òô™n£¬Ò»‚€ĞèÕ{İSµÄ×ÖÄ»™n£©¡¹
-»òÊÇ¡¸Ò»‚€Ä¿ä›£¨¶à‚€Ó°Òô™n+¶à‚€×ÖÄ»™n£¬µ«ƒÉÕß”µÁ¿ÒªÒ»ÖÂ£©¡¹
-»òÊÇ¡¸ƒÉ‚€Ä¿ä›£¨Ó°Òô™nÄ¿ä› + ×ÖÄ»™nÄ¿ä›£¬ƒÉß…µÄ™n°¸”µÁ¿Ò²ÒªÒ»ÖÂ£©¡¹
+è¼¸å…¥å¯ä»¥æ¥å—ã€Œå…©å€‹æª”æ¡ˆï¼ˆä¸€å€‹ç›®æ¨™å½±éŸ³æª”ï¼Œä¸€å€‹éœ€èª¿è»¸çš„å­—å¹•æª”ï¼‰ã€
+æˆ–æ˜¯ã€Œä¸€å€‹ç›®éŒ„ï¼ˆå¤šå€‹å½±éŸ³æª”+å¤šå€‹å­—å¹•æª”ï¼Œä½†å…©è€…æ•¸é‡è¦ä¸€è‡´ï¼‰ã€
+æˆ–æ˜¯ã€Œå…©å€‹ç›®éŒ„ï¼ˆå½±éŸ³æª”ç›®éŒ„ + å­—å¹•æª”ç›®éŒ„ï¼Œå…©é‚Šçš„æª”æ¡ˆæ•¸é‡ä¹Ÿè¦ä¸€è‡´ï¼‰ã€
 
